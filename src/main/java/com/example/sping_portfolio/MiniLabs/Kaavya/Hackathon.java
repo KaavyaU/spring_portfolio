@@ -1,4 +1,4 @@
-package com.example.sping_portfolio.MiniLabs;
+package com.example.sping_portfolio.MiniLabs.Kaavya;
 
 public class Hackathon {
     public static void main(String[] args) {
