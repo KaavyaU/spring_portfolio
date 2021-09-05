@@ -1,0 +1,30 @@
+<!-- This page is illustrative and contains ideas about HTML formatting -->
+<!DOCTYPE HTML>
+<!-- Signals to the Layout Dialect which layout should be used to decorate this View -->
+<html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
+      layout:decorate="~{layout}" lang="en">
+
+<head><div layout:fragment="metadata" th:remove="tag">
+    <title>Intro</title>
+</div></head>
+
+<!-- layout::fragment="content" is heart of ThymeLeaf layout -->
+<body><div layout:fragment="content" th:remove="tag">
+    <!-- Start of body content specific to page -->
+    <div id="spring_intro" class="articles" style="margin: 30px;">
+        <h1><strong> Project Recycle </strong></h1>
+        <h3><strong>&#127796 Welcome to Project Recycle! &#127796 </strong></h3>
+        <p> Our aim is to encourage people to recycle. </p>
+        <p>Recycle helps improve the environment of our campus.</p>
+        <p>Join us and create a account know, looking forward to your achievements! &#10024 </p>
+
+        <h3><strong>&#129300 Why should we recycle? &#129300</strong></h3>
+        <p>Conserves natural resources such as timber, water and minerals. </p>
+        <p>Increases economic security by tapping a domestic source of materials.</p>
+        <p>Helps to reduce energy usage. </p>
+
+    </div>
+    <!-- End of body content specific to page -->
+</div></body>
+
+</html>
