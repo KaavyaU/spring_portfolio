@@ -5,7 +5,7 @@ public class Thermo {
             if (temp > 98) {
                 System.out.println("You are sick, and need to rest");
             } else if (temp <= 98) {
-                System.out.println("You are fine");
+                System.out.println("You are fine"); //comment
             }
         }
     }

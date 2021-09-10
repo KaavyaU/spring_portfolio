@@ -5,6 +5,7 @@ public class Dhruv {
     public static void main(String[] args) {
         double avg12 , avg34 , final_average;
         Scanner keyboard = new Scanner (System.in);
+        //comment
         System.out.println ("Please enter the first grade:");
         double grade1 = keyboard.nextInt() ;
         System.out.println("Please enter the second grade:");
