@@ -6,7 +6,7 @@ import java.util.Scanner;
         public static void main(String[] args)
         {
             Scanner scanner = new Scanner(System.in);
-            System.out.println("Please enter the first grade in the first bracket");
+            System.out.println("enter the first grade in the first bracket");
             double grade1 = scanner.nextDouble();
             System.out.println("now please enter the second grade");
             double grade2 = scanner.nextDouble();
