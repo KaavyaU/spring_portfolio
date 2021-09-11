@@ -8,19 +8,19 @@
 #####    * Jacquline and Kaavya - https://docs.google.com/document/d/1_77nz3IglXgiMYR-dnMNzKONL8WBVP_OOJvqff_uQ9g/edit
 Team Member                       | GitHub ID  | Tasks  | Scrumboard| GitHub Profile| Commits
 ----------------------------------|-----------|-----------------|-----------------------|------------------------|--------------
-Dhruv Bhatnagar | @Dhrruvb1 |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/dhrruvb)| Scrumboard| [Link](https://github.com/Dhrruvb1) | Commits
-Kaavya Uppala | @KaavyaU (As ftc13184-KU when committing)  | [Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/KaavyaU)| Scrumboard | [Link](https://github.com/KaavyaU) | Commits
-Chris Duriou | @ChristopherDuroiu |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/ChristopherDuroiu)| Scrumboard |[Link](https://github.com/ChristopherDuroiu) | Commits 
-Jacqueline Cheng | @Jacqueline |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/1951694)| Scrumboard | [Link](https://github.com/1951694) | Commits
+Dhruv B | @Dhrruvb1 |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/dhrruvb)| Scrumboard| [Link](https://github.com/Dhrruvb1) | Commits
+Kaavya U| @KaavyaU (As ftc13184-KU when committing)  | [Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/KaavyaU)| Scrumboard | [Link](https://github.com/KaavyaU) | Commits
+Chris D | @ChristopherDuroiu |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/ChristopherDuroiu)| Scrumboard |[Link](https://github.com/ChristopherDuroiu) | Commits 
+Jacqueline C | @Jacqueline |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/1951694)| Scrumboard | [Link](https://github.com/1951694) | Commits
 
 ## Week 3
 
 ### Code
-#### * Home Page (Kaavya) - [https://github.com/KaavyaU/spring_portfolio/commit/9987df90ad992ddcc43547c0f378225c46125c93](url)
+#### * Home Page w/ NavBar (Kaavya) - [https://github.com/KaavyaU/spring_portfolio/commit/9987df90ad992ddcc43547c0f378225c46125c93](url)
 #### * Home Page (Jacqueline) - 
-#### * About Us Page (Dhruv)
-#### * About Us Page (Chris) - 
-#### * Integration of Bootstrap Grids
+#### * About Us Page + Greet Program (Dhruv)
+#### * Mini Labs Page + Integration of Mini Labs (Chris) - 
+#### * Leaderboard +Bootstrap Grids) - 
 
 ### Day-by-Day Plan
    Task                                 | Start Day | End Day   | Asignees            | Progress 
