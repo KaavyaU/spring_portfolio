@@ -1,5 +1,4 @@
-## Pop Quiz
-
+## Blue
 #### Team Name: Blue
 #### Scrum Board - https://github.com/KaavyaU/spring_portfolio/projects/1
 #### GitHub Contributers - Jacqueline Cheng, Dhruv Bhatnagar, Chris Duriou, Kaavya Uppala
