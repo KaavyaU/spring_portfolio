@@ -22,6 +22,12 @@ Jacqueline C | @Jacqueline |[Link](https://github.com/KaavyaU/spring_portfolio/i
 #### * Mini Labs Page + Integration of Mini Labs (Chris) - 
 #### * Leaderboard +Bootstrap Grids) - 
 
+### Individual Work
+#### * Chris - 
+#### * Dhruv - 
+#### * Jacqueline - 
+#### * Kaavya - 
+
 ### Day-by-Day Plan
    Task                                 | Start Day | End Day   | Asignees            | Progress 
 ----------------------------------------| --------- | --------  | --------------------| ---------
