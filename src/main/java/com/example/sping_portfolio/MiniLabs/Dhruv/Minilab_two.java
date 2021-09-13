@@ -10,7 +10,7 @@ public class Minilab_two {
         String name = keyboard.next();
         System.out.println("What is your temperature?");
         int temp = keyboard.nextInt();
-// comment11
+// comment1
         Thermo t = new Thermo();
         t.check_temp( age, temp, name);
     }
