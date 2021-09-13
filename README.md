@@ -10,8 +10,8 @@ Team Member                       | GitHub ID  | Tasks  | Scrumboard| GitHub Pro
 ----------------------------------|-----------|-----------------|-----------------------|------------------------|--------------
 Dhruv B | @Dhrruvb1 |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/dhrruvb)| Scrumboard| [Link](https://github.com/Dhrruvb1) | Commits
 Kaavya U| @KaavyaU (As ftc13184-KU when committing)  | [Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/KaavyaU)| Scrumboard | [Link](https://github.com/KaavyaU) | Commits
-Chris D | @ChristopherDuroiu |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/ChristopherDuroiu)| Scrumboard |[Link](https://github.com/ChristopherDuroiu) | Commits 
-Jacqueline C | @Jacqueline |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/1951694)| Scrumboard | [Link](https://github.com/1951694) | Commits
+Chris D | @ChristopherDuroiu |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/ChristopherDuroiu)| Scrumboard |[Link](https://github.com/ChristopherDuroiu) | [Link](https://github.com/KaavyaU/spring_portfolio/commits?author=ChristopherDuroiu)
+Jacqueline C | @Jacqueline |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/1951694)| Scrumboard | [Link](https://github.com/1951694) | [Link](https://github.com/KaavyaU/spring_portfolio/commits?author=1951694)
 
 ## Week 3
 
