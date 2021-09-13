@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
+      layout:decorate="~{layout}"  lang="en">
+<head>
+    <div layout:fragment="metadata" th:remove="tag">
+        <meta charset="UTF-8">
+        <title>Our Members</title>
+
+    </div>
+</head>
+<body>
+    <div layout:fragment="content" th:remove="tag">
+        <div class="col-8" >
+            <h1>Our Team</h1>
+        </div>
+        <div>
+            <table>
+                <tr>
+                    <td><img src="/static/images/christopher.png" th:src="@{/images/christopher.png}"></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td><b>Christopher Duroiu</b></td>
+                    <td><b>Kaavya Uppala</b></td>
+                    <td><b>Dhruv Bhatnagar</b></td>
+                    <td><b>Jacqueline Cheng</b></td>
+                </tr>
+                <tr>
+                    <td>
+                        <ul>
+                            <li>Chris is the one who inspired the recycling idea to help the school as well as environment</li>
+                            <li>He is also the developer and is in charge of the team page and mini labs page</li>
+                            <li><a href="https://github.com/ChristopherDuroiu">Github profile</a></li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+                            <li>Kaavya is the Scrum master for our scrum team</li>
+                            <li>She is also technical lead so she helps coordinate brain write session</li>
+                            <li><a href="https://github.com/kaavyaU">Github profile</a></li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+                            <li>Dhruv is the designer of the website</li>
+                            <li>He helps come up with the prototypes, and helps design the basic visuals of the website</li>
+                            <li><a href="https://github.com/dhrruvb">Github profile</a></li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+                            <li>Jacqueline is the navigator for the scrum team</li>
+                            <li>She tests the features, and provides feedback on how to improve the overall website</li>
+                            <li><a href="https://github.com/1951694">Github profile</a></li>
+                        </ul>
+                    </td>
+                </tr>
+
+
+            </table>
+
+
+        </div>
+
+     </div>
+</body>
+</html>
