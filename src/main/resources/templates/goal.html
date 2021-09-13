@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
+      layout:decorate="~{layout}"  lang="en">
+<head>
+    <div layout:fragment="metadata" th:remove="tag">
+        <meta charset="UTF-8">
+        <title>Our Goal</title>
+
+    </div>
+</head>
+<body>
+<div layout:fragment="content" th:remove="tag">
+    <div class="col-8" >
+        <h1>How it Works</h1>
+    </div>
+    <p style="margin-left:20px"><img src="/static/images/money.png" th:src="@{/images/money.png}" width = "300" height = "156"></p>
+    <div>
+        <ul>
+            <li>The general idea of our project is for students to collect bottles independently or at meetups, and then trade them into the Del Norte office for dineros</li>
+            <li>The school can then exchange these bottles at one of the many businesses which take in bottles and reward money</li>
+            <li>Since dineros can be exchanged for cafeteria items, we will make sure that the school recieves more money than it rewards students through dineros</li>
+            <li>The school will also host different recycling meetups to encourage collaboration, friendships, and recycling</li>
+        </ul>
+    </div>
+    <div class="col-8" >
+        <h1>Purpose</h1>
+    </div>
+    <p style="margin-left:20px"><img src="/static/images/earth.png" th:src="@{/images/earth.png}" width = "300" height = "300"></p>
+    <div>
+        <ul>
+            <li>Our project's ultimate goal is to improve the environment and provide the school with extra funding for different programs</li>
+            <li>By giving students an extra incentive of dineros, we can encourage students to recycle at different school meetups, which can also serve as an additional extracuriccular</li>
+            <li>Since the school can exchange recycled bottles for a profit at a different institution, the project will also serve as a fundraiser for more programs benefiting students and staff</li>
+        </ul>
+    </div>
+
+</div>
+</body>
+</html>
