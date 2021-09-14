@@ -1,0 +1,57 @@
+<!-- This page is illustrative and contains ideas about HTML formatting -->
+<!DOCTYPE HTML>
+<!-- Signals to the Layout Dialect which layout should be used to decorate this View -->
+<html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
+      layout:decorate="~{layout}" lang="en">
+
+<head><div layout:fragment="metadata" th:remove="tag">
+    <title>Intro</title>
+</div></head>
+
+<!-- layout::fragment="content" is heart of ThymeLeaf layout -->
+<body><div layout:fragment="content" th:remove="tag">
+    <!-- Start of body content specific to page -->
+    <div id="spring_intro" class="articles" style="margin: 30px;">
+        <style>
+              h3 {
+                            font-family: 'Playfair Display';
+                            font-size: 3vw;
+                        }
+                        p {
+                            font-family: 'Darker Grotesque';
+                       font-size: 2vw;
+                      }
+                    </style>
+        <ol>
+            <h3 style="color: white"><strong>Recycling Leaderboard</strong></h3>
+                        <pre>                                              </pre>
+                        <p style="color: white">Check out our current leading recyclers</p>
+                        <p style="color: white">And keep on recycling to get your place on the leaderboard!</p>
+        </ol>
+    </div>
+    <!-- End of body content specific to page -->
+    <div class="container.fluid" style="font-size: 2vw">
+                <div class="row" style="color: white">
+                    <div class="col-3">Place</div>
+                    <div class="col-6">Name</div>
+                    <div class="col-3">Amount Recycled</div>
+                </div>
+                <div class="row">
+                    <div class="col-3">1</div>
+                    <div class="col-6">Person A</div>
+                    <div class="col-3">100 bottles</div>
+                </div>
+                <div class="row">
+                    <div class="col-3">2</div>
+                    <div class="col-6">Person B</div>
+                    <div class="col-3">70 bottles</div>
+                </div>
+                <div class="row">
+                    <div class="col-3">3</div>
+                    <div class="col-6">Person C</div>
+                    <div class="col-3">50 bottles</div>
+                </div>
+    </div>
+</div></body>
+
+</html>
