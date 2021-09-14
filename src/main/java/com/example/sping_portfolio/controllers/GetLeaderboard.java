@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class GetLeaderboard {
     @GetMapping("/leaderboard")
     // CONTROLLER handles GET request for /greeting, maps it to greeting() and does variable bindings
-    public String leaderboard() {
+    public String getLeaderboard() {
         return "leaderboard"; // returns HTML VIEW (greeting)
     }
 }
