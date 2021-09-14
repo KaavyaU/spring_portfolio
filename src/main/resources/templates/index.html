@@ -6,31 +6,54 @@
 
 <head><div layout:fragment="metadata" th:remove="tag">
     <title>Intro</title>
-</div>
-</head>
+    <link href='https://fonts.googleapis.com/css?family=Belleza' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Playfair Display' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Darker Grotesque' rel='stylesheet'>
+</div></head>
+
 
 <!-- layout::fragment="content" is heart of ThymeLeaf layout -->
 <body>
-<div layout:fragment="content" th:remove="tag">
-    <!-- Start of body content specific to page -->
-    <div id="spring_intro" class="articles" style="margin: 30px;">
-        <h1><strong>Recycling Project</strong></h1>
-        <h3><strong>Meet our members</strong></h3>
-        <ol>
-            <li>Kaavya Uppala as scrum master and technical lead  </li>
-            <li>Jacqueline Cheng as Navigator</li>
-            <li>Dhruv Batnagar as designer</li>
-            <li>Christopher Duroiu as website developer.</li>
-        </ol>
-        <h3><strong>What is our project about?</strong></h3>
-
-        <p>We created a recycling project to motivate students to recycle and raise money for the school as well.
-                Our purpose is to motivate students in our community and others to support our school and improve the
-                environment.</p>
-
-
-
-    </div>
+<div th:replace="WebPages/NavBar:: header">
 
 </div>
+
+<div layout:fragment="content" th:remove="tag">
+    <style>
+        body{
+            background-image: url('static/images/Background.jpg');
+            background-size: cover;
+        }
+    </style>
+    <div>
+        <!--<img class = "bg-img" src="Background.jpg" alt = "Leaf Background"> </img>-->
+    </div>
+    <!-- Start of body content specific to page -->
+    <div id="spring_intro" class="articles" style="margin: 30px;">
+        <style>
+            p1 {
+                font-family: 'Belleza';
+                font-size: 7vw;
+            }
+            h3 {
+                font-family: 'Playfair Display';
+                font-size: 2vw;
+            }
+            p {
+                font-family: 'Darker Grotesque';
+                font-size: 2vw;
+            }
+        </style>
+        <ol>
+            <p1 style="color: white">Project Recycle</p1>
+            <h3 style="color: white"><strong>Welcome to Project Recycle</strong></h3>
+            <p style="color: white">Our goal is to encourage the students and staff of DNHS to recycle more.</p>
+            <p style="color: white">By tracking your recycling, help make our campus and the world a better place.</p>
+            <p style="color: white">Get started on Project Recycle by making an account now!</p>
+        </ol>
+        <!-- End of body content specific to page -->
+    </div>
+</div>
 </body>
+
+</html>
