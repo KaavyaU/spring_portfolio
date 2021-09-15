@@ -32,10 +32,11 @@ Jacqueline C | @Jacqueline |[Link](https://github.com/KaavyaU/spring_portfolio/i
 ### Day-by-Day Plan
    Task                                 | Start Day | End Day   | Asignees            | Progress 
 ----------------------------------------| --------- | --------  | --------------------| ---------
-Unit 3 Work                             | 9/7/2021  | 9/10/2021 | Everyone            | 
-Mini Labs                               | 9/8/2021  | 9/9/2021  | Everyone            |
-Home Page with Nav-Bar                  | 9/7/2021  | 9/10/2021 | Jacqueline, Kaavya  |
-About Us Page (+Greet Program)          | 9/7/2021  | 9/10/2021 | Dhruv               | 
-Leaderboard + Bootstrap Grids           | 9/7/2021  | 9/10/2021 | Kaavya              |
-Mini Labs Page (+ Integrate Mini Labs)  | 9/7/2021  | 9/10/2021 | Chris               |
-Past/Upcoming Events                    | 9/7/2021  | 9/10/2021 | Jacqueline          |
+Unit 3 Work                             | 9/7/2021  | 9/10/2021 | Everyone            | Complete
+Mini Labs                               | 9/8/2021  | 9/9/2021  | Everyone            | In Progress
+Home Page with Nav-Bar                  | 9/7/2021  | 9/10/2021 | Jacqueline, Kaavya  | In Progress
+About Us Page (+Greet Program)          | 9/7/2021  | 9/10/2021 | Dhruv               | In Progress
+Leaderboard + Bootstrap Grids           | 9/7/2021  | 9/10/2021 | Kaavya              | In Progress
+Mini Labs Page (+ Integrate Mini Labs)  | 9/7/2021  | 9/10/2021 | Chris               | In Progress
+Past/Upcoming Events                    | 9/7/2021  | 9/10/2021 | Jacqueline          | Not Started
+Unit 4 Work                             | 9/13/2021 | 9/17/2021 | Everyone
