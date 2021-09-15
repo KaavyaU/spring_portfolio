@@ -1,0 +1,28 @@
+<!-- This page is illustrative and contains ideas about HTML formatting -->
+<!DOCTYPE HTML>
+<!-- Signals to the Layout Dialect which layout should be used to decorate this View -->
+<html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
+      layout:decorate="~{layout}" lang="en">
+
+<head><div layout:fragment="metadata" th:remove="tag">
+    <title>Intro</title>
+</div></head>
+
+<!-- layout::fragment="content" is heart of ThymeLeaf layout -->
+<body><div layout:fragment="content" th:remove="tag">
+    <!-- Start of body content specific to page -->
+    <div id="spring_intro" class="articles" style="margin: 30px;">
+        <h1><strong> Tournaments </strong></h1>
+        <h3><strong>Upcoming trash picking tournaments. </strong></h3>
+        <p> California Coastal clean up day : 9/18/2021 <a href="https://www.eventbrite.com/e/37th-annual-coastal-cleanup-day-mission-bay-clean-up-tickets-170505247786?aff=ebdssbdestsearch">Click here to register</a></p>
+        <p> Oceanside Beach clean up : 9/18/2021 <a href="https://www.eventbrite.com/e/37th-annual-coastal-cleanup-day-mission-bay-clean-up-tickets-170505247786?aff=ebdssbdestsearch">Click here to register</a></p>
+        <p> HOKALI Beach Cleanup Day : Multiple Dates <a href="https://www.eventbrite.com/e/hokali-beach-cleanup-day-pacific-beach-san-diego-tickets-150901060133?aff=ebdssbdestsearch"Click here to register</p>
+        <p> Graffiti and Trash Clean-Up in Chula Vista <a href="https://www.eventbrite.com/e/graffiti-and-trash-clean-up-on-broadway-in-chula-vista-tickets-172174627947?aff=ebdssbdestsearch"Click here to register</p>
+        <p> </p>
+
+
+    </div>
+    <!-- End of body content specific to page -->
+</div></body>
+
+</html>
