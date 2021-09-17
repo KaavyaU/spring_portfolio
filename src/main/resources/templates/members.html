@@ -8,6 +8,9 @@
 
     </div>
 </head>
+<style>
+
+</style>
 <body>
     <div layout:fragment="content" th:remove="tag">
         <div class="col-8" >
@@ -21,7 +24,7 @@
                     <td></td>
                     <td></td>
                 </tr>
-                <tr>
+                <tr style="background-color: white;">
                     <td><b>Christopher Duroiu</b></td>
                     <td><b>Kaavya Uppala</b></td>
                     <td><b>Dhruv Bhatnagar</b></td>
@@ -29,7 +32,7 @@
                 </tr>
                 <tr>
                     <td>
-                        <ul>
+                        <ul style="background-color: white;">
                             <li>Chris is the one who inspired the recycling idea to help the school as well as environment</li>
                             <li>He is also the developer and is in charge of the team page and mini labs page</li>
                             <li><a href="https://github.com/ChristopherDuroiu">Github profile</a></li>
@@ -66,4 +69,23 @@
 
      </div>
 </body>
+
+<div layout:fragment="script" th:remove="tag">
+    <!-- Start of custom script specific to page -->
+    <script src="/static/vanta/three.r119.min.js" th:src="@{/vanta/three.r119.min.js}"></script>
+    <script src="/static/vanta/vanta.birds.min.js" th:src="@{/vanta/vanta.birds.min.js}"></script>
+    <script>
+        VANTA.BIRDS({
+            el: "body",
+            mouseControls: true,
+            touchControls: true,
+            gyroControls: false,
+            minHeight: 200.00,
+            minWidth: 200.00,
+            scale: 1.00,
+            scaleMobile: 1.00
+        })
+    </script>
+    <!-- End of custom script specific to page -->
+</div>
 </html>
