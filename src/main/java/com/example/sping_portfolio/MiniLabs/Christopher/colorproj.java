@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.awt.image.BufferedImage;
 import javax.imageio.ImageIO;
 
-public class GrayScale{
+public class colorproj{
     public static void main(String args[])throws IOException{
         BufferedImage img = null;
         File f = null;
@@ -49,3 +49,4 @@ public class GrayScale{
         }
     }//main() ends here
 }//class ends here
+
