@@ -21,10 +21,10 @@ Jacqueline C | @Jacqueline |[Link](https://github.com/KaavyaU/spring_portfolio/i
 #### * Kaavya - [Homepage, Leaderboard, NavBar](url) 
 #### * Jacqueline - [Homepage](url)
 #### * Dhruv - [About Us Page](url)
-#### * Chris - [Various files changed](url)
+#### * Chris - Greet and Birds Integration: [Link](https://github.com/KaavyaU/spring_portfolio/commit/ae076099e347b13726d2be10fb3660bca1705ed3)
 
 ### Individual Work
-#### * Chris - [Link](https://docs.google.com/document/d/18rxRsxZNaHHLoG3P77QIXXPIHKEM_Rcz3gVzLhRcArc/edit?usp=sharing)
+#### * Chris - [Link](https://docs.google.com/document/d/19Bu5awD3ZSQveid-c7RPIxg8bRQcCYpGzC1R2f5G9rM/edit?usp=sharing)
 #### * Dhruv - [Link](https://docs.google.com/document/d/1MA46spR4Op1mxBaDlCBE9G025BRrPXMpNUpher2Jwes/edit?usp=sharing)
 #### * Jacqueline - [Link](url)
 #### * Kaavya - [Unit 3 Notes](url), [Unit 3 Progress Check Corrections](url)
