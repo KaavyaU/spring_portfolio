@@ -13,6 +13,22 @@ Kaavya U| @KaavyaU (As ftc13184-KU when committing)  | [Link](https://github.com
 Chris D | @ChristopherDuroiu |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/ChristopherDuroiu)| [Link](https://github.com/KaavyaU/spring_portfolio/projects/1?card_filter_query=assignee%3Achristopherduroiu) |[Link](https://github.com/ChristopherDuroiu) | [Link](https://github.com/KaavyaU/spring_portfolio/commits?author=ChristopherDuroiu)
 Jacqueline C | @Jacqueline |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/JacquelineC23)| [Link](https://github.com/KaavyaU/spring_portfolio/projects/1?card_filter_query=assignee%3Ajacquelinec23) | [Link](https://github.com/JacquelineC23) | [Link](https://github.com/KaavyaU/spring_portfolio/commits?author=JacquelineC23)
 
+## Week 4
+
+### [Self Grading](https://docs.google.com/document/d/18rxRsxZNaHHLoG3P77QIXXPIHKEM_Rcz3gVzLhRcArc/edit#bookmark=kix.vyrab4pf18j9)
+
+### Code
+#### * Kaavya - [Homepage, Leaderboard, NavBar](url) 
+#### * Jacqueline - [Homepage](url)
+#### * Dhruv - [About Us Page](url)
+#### * Chris - [Various files changed](url)
+
+### Individual Work
+#### * Chris - [Link](https://docs.google.com/document/d/18rxRsxZNaHHLoG3P77QIXXPIHKEM_Rcz3gVzLhRcArc/edit?usp=sharing)
+#### * Dhruv - [Link](https://docs.google.com/document/d/1MA46spR4Op1mxBaDlCBE9G025BRrPXMpNUpher2Jwes/edit?usp=sharing)
+#### * Jacqueline - [Link](url)
+#### * Kaavya - [Unit 3 Notes](url), [Unit 3 Progress Check Corrections](url)
+
 ## Week 3
 
 ### [Self Grading](https://docs.google.com/document/d/18rxRsxZNaHHLoG3P77QIXXPIHKEM_Rcz3gVzLhRcArc/edit#bookmark=id.q807migpej2o)
