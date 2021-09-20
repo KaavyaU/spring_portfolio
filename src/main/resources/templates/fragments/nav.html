@@ -6,7 +6,7 @@
 <body>
     <!-- Begin navigation fragments -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light" th:fragment="header">
-        <a class="navbar-brand" href="http://nighthawkcodingsociety.com/">
+        <a class="navbar-brand" href="/index">
             <img src="/static/images/recycling.png" th:src="@{/images/recycling.png}" width="50" height="50" class="d-inline-block align-center" alt="">
             Project Recycle
         </a>
@@ -25,6 +25,8 @@
                         About Us
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="/members">Members</a>
+                        <a class="dropdown-item" href="/goal">Our Goal</a>
                         <a class="dropdown-item" href="/">Kaavya</a>
                         <a class="dropdown-item" href="/">Jacquline</a>
                         <a class="dropdown-item" href="/">Dhruv</a>

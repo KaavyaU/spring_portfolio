@@ -4,54 +4,61 @@
 <html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
       layout:decorate="~{layout}" lang="en">
 
-<head><div layout:fragment="metadata" th:remove="tag">
-    <title>Intro</title>
-    <link href='https://fonts.googleapis.com/css?family=Belleza' rel='stylesheet'>
-    <link href='https://fonts.googleapis.com/css?family=Playfair Display' rel='stylesheet'>
-    <link href='https://fonts.googleapis.com/css?family=Darker Grotesque' rel='stylesheet'>
-</div></head>
-
+<head>
+    <div layout:fragment="metadata" th:remove="tag"><title>Intro</title>
+        <link href='https://fonts.googleapis.com/css?family=Belleza' rel='stylesheet'>
+        <link href='https://fonts.googleapis.com/css?family=Playfair Display' rel='stylesheet'>
+        <link href='https://fonts.googleapis.com/css?family=Darker Grotesque' rel='stylesheet'>
+        <link href='https://fonts.googleapis.com/css?family=Antic' rel='stylesheet'>
+        <link href="../../css/indexStyle.css" rel="stylesheet">
+    </div>
+</head>
 
 <!-- layout::fragment="content" is heart of ThymeLeaf layout -->
 <body>
-<div th:replace="WebPages/NavBar:: header">
+    <div th:replace="WebPages/NavBar:: header">
 
 </div>
-
 <div layout:fragment="content" th:remove="tag">
-    <style>
-        body{
-            background-image: url('static/images/Background.jpg');
-            background-size: cover;
-        }
-    </style>
     <div>
         <!--<img class = "bg-img" src="Background.jpg" alt = "Leaf Background"> </img>-->
     </div>
     <!-- Start of body content specific to page -->
     <div id="spring_intro" class="articles" style="margin: 30px;">
         <style>
+            html, body {
+                line-height: 2.0;
+                background-image: url('https://preview.redd.it/1ikqwfkc8im51.png?auto=webp&s=e501b0a1ef14b6d9336713a66b589328cf8648b8');
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                animation-duration: 10s;
+                animation-name: slideIn;
+                animation-iteration-count: infinite;
+            }
             p1 {
                 font-family: 'Belleza';
                 font-size: 7vw;
             }
             h3 {
                 font-family: 'Playfair Display';
-                font-size: 2vw;
+                font-size: 3vw;
             }
             p {
-                font-family: 'Darker Grotesque';
+                font-family: 'Antic';
                 font-size: 2vw;
             }
         </style>
-        <ol>
-            <p1 style="color: white">Project Recycle</p1>
-            <h3 style="color: white"><strong>Welcome to Project Recycle</strong></h3>
-            <p style="color: white">Our goal is to encourage the students and staff of DNHS to recycle more.</p>
-            <p style="color: white">By tracking your recycling, help make our campus and the world a better place.</p>
-            <p style="color: white">Get started on Project Recycle by making an account now!</p>
-        </ol>
+        <div>
+            <ol>
+                <p1 style="color: white">Project Recycle</p1>
+                <h3 style="color: white"><strong>Welcome to Project Recycle</strong></h3>
+                <p style="color: white">Our goal is to encourage the students and staff of DNHS to recycle more.</p>
+                <p style="color: white">By tracking your recycling, help make our campus and the world a better place.</p>
+                <p style="color: white">Get started on Project Recycle by making an account now!</p>
+            </ol>
         <!-- End of body content specific to page -->
+        </div>
     </div>
 </div>
 </body>

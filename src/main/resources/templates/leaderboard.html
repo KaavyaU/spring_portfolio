@@ -11,46 +11,82 @@
 <!-- layout::fragment="content" is heart of ThymeLeaf layout -->
 <body><div layout:fragment="content" th:remove="tag">
     <!-- Start of body content specific to page -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <link rel="stylesheet"
+          href="http://cdn.datatables.net/1.10.2/css/jquery.dataTables.min.css"></style>
+    <script type="text/javascript"
+            src="http://cdn.datatables.net/1.10.2/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript"
+            src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     <div id="spring_intro" class="articles" style="margin: 30px;">
         <style>
               h3 {
-                            font-family: 'Playfair Display';
-                            font-size: 3vw;
-                        }
-                        p {
-                            font-family: 'Darker Grotesque';
-                       font-size: 2vw;
-                      }
-                    </style>
+                  font-family: 'Playfair Display';
+                  font-size: 3vw;
+              }
+              p {
+                  font-family: 'Darker Grotesque';
+                  font-size: 2vw;
+              }
+        </style>
         <ol>
             <h3 style="color: white"><strong>Recycling Leaderboard</strong></h3>
-                        <pre>                                              </pre>
-                        <p style="color: white">Check out our current leading recyclers</p>
-                        <p style="color: white">And keep on recycling to get your place on the leaderboard!</p>
+            <p style="color: white">Check out our current leading recyclers</p>
+            <p style="color: white">And keep on recycling to get your place on the leaderboard!</p>
         </ol>
     </div>
     <!-- End of body content specific to page -->
-    <div class="container.fluid" style="font-size: 2vw">
-                <div class="row" style="color: white">
-                    <div class="col-3">Place</div>
-                    <div class="col-6">Name</div>
-                    <div class="col-3">Amount Recycled</div>
-                </div>
-                <div class="row">
-                    <div class="col-3">1</div>
-                    <div class="col-6">Person A</div>
-                    <div class="col-3">100 bottles</div>
-                </div>
-                <div class="row">
-                    <div class="col-3">2</div>
-                    <div class="col-6">Person B</div>
-                    <div class="col-3">70 bottles</div>
-                </div>
-                <div class="row">
-                    <div class="col-3">3</div>
-                    <div class="col-6">Person C</div>
-                    <div class="col-3">50 bottles</div>
-                </div>
+    <div class="table-responsive">
+        <table id="leaderboardTable" class="display-table" width="90%">
+            <style>
+                .display-table {
+                    font-family: 'Antic';
+                    font-size: 2vw;
+                    color: black;
+                    background-color: #E0D6A7;
+                }
+            </style>
+            <thead>
+            <tr>
+                <th>Place</th>
+                <th>Name</th>
+                <th>Amount Recycled</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>1</td>
+                <td>Person A</td>
+                <td>100 bottles</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Person B</td>
+                <td>50 bottles</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td th:text="${nameout}"></td>
+                <td th:text="${countout}"></td>
+            </tr>
+        </table>
+        <script>
+            $(document).ready(function(){
+                $('#leaderboardTable').dataTable();
+            });
+        </script>
+    </div>
+    <div>
+        <form action="/leaderboard" method="GET" id="leaderForm">
+            <div>
+                <label for="nameField">Your name: </label>
+                <input name="name" id="nameField">
+                <div></div>
+                <label for="countField">How many bottles? </label>
+                <input name="count" id="countField">
+                <button>Add to board</button>
+            </div>
+        </form>
     </div>
 </div></body>
 
