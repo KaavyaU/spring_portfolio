@@ -15,12 +15,13 @@ Jacqueline C | @Jacqueline |[Link](https://github.com/KaavyaU/spring_portfolio/i
 
 ## Week 4
 
+### [Web Page Video](https://www.loom.com/share/14ae6ad91cda44ac947e22716cef76f7)
 ### [Self Grading](https://docs.google.com/document/d/18rxRsxZNaHHLoG3P77QIXXPIHKEM_Rcz3gVzLhRcArc/edit#bookmark=kix.vyrab4pf18j9)
 
 ### Code
-#### * Kaavya - [Homepage, Leaderboard, NavBar](url) 
-#### * Jacqueline - [Homepage](url)
-#### * Dhruv - [About Us Page](url)
+#### * Kaavya - [Homepage, Leaderboard](https://github.com/KaavyaU/spring_portfolio/commit/807c40a2f17b71145b378694d9157d54dc162c32), [Upating NavBar](https://github.com/KaavyaU/spring_portfolio/commit/f9037bcb69fee1acb7bc74791bbe05c7f01c0590)
+#### * Jacqueline - [Past & Upcoming Events](https://github.com/KaavyaU/spring_portfolio/commit/86c86d62076e405cba48c4b3ae94f8bb4e22ab87)
+#### * Dhruv - [About Us Page](https://github.com/KaavyaU/spring_portfolio/commit/ef2dfcf909afbfed34146246b7516a41c62fc25a)
 #### * Chris - Greet and Birds Integration: [Link](https://github.com/KaavyaU/spring_portfolio/commit/ae076099e347b13726d2be10fb3660bca1705ed3)
 
 ### Individual Work
