@@ -26,12 +26,15 @@
         .card {
             box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
             margin: 8px;
+            background-color: #ffffff
         }
 
         .about-section {
             padding: 50px;
             text-align: center;
-            background-color: #474e5d;
+            background-color: #5d8440
+
+        ;
             color: white;
         }
 
@@ -69,6 +72,7 @@
             .column {
                 width: 100%;
                 display: block;
+                color: white;
             }
         }
     </style>
@@ -82,7 +86,10 @@
 
 </div>
 
-<h2 style="text-align:center">Our Founders</h2>
+<div class="card">
+    <h2 style="text-align:center">Our Founders</h2>
+</div>
+
 <div class="row">
     <div class="column">
         <div class="card">
@@ -107,7 +114,6 @@
                 <p>Chris is the one who inspired the idea of the website
                     He is also developer, so he does a lot of the programming.</p>
                 <p>chrisddur@gmail.com</p>
-                <li><a href="https://github.com/ChristopherDuroiu">Github profile</a></li>
                 <p><button class="button">Contact</button></p>
             </div>
         </div>
@@ -143,5 +149,25 @@
     </div>
 </div>
 
+
+<div layout:fragment="script" th:remove="tag">
+    <!-- Start of custom script specific to page -->
+    <script src="/static/vanta/three.r119.min.js" th:src="@{/vanta/three.r119.min.js}"></script>
+    <script src="/static/vanta/vanta.birds.min.js" th:src="@{/vanta/vanta.birds.min.js}"></script>
+    <script>
+        VANTA.BIRDS({
+            el: "body",
+            mouseControls: true,
+            touchControls: true,
+            gyroControls: false,
+            minHeight: 200.00,
+            minWidth: 200.00,
+            scale: 1.00,
+            scaleMobile: 1.00
+        })
+    </script>
+    <!-- End of custom script specific to page -->
+</div>
 </body>
+
 </html>
