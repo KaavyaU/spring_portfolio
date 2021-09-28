@@ -13,6 +13,14 @@ Kaavya U| @KaavyaU (As ftc13184-KU when committing)  | [Link](https://github.com
 Chris D | @ChristopherDuroiu |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/ChristopherDuroiu)| [Link](https://github.com/KaavyaU/spring_portfolio/projects/1?card_filter_query=assignee%3Achristopherduroiu) |[Link](https://github.com/ChristopherDuroiu) | [Link](https://github.com/KaavyaU/spring_portfolio/commits?author=ChristopherDuroiu)
 Jacqueline C | @Jacqueline |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/JacquelineC23)| [Link](https://github.com/KaavyaU/spring_portfolio/projects/1?card_filter_query=assignee%3Ajacquelinec23) | [Link](https://github.com/JacquelineC23) | [Link](https://github.com/KaavyaU/spring_portfolio/commits?author=JacquelineC23)
 
+## Week 5
+
+### Individual Work
+#### * Chris - [Week 5 Journal](https://docs.google.com/document/d/1VHXwPLX0Xpwg1UTor1pzGkW_ANwSUoALFI-9DjbgFWA/edit?usp=sharing)
+#### * Dhruv - [Week 5 Journal](https://docs.google.com/document/d/1gNhzsLOV-hGObZOZDPEKWoJP0NizCyq4Ab0LXMqcDkA/edit?usp=sharing)
+#### * Jacqueline - [Week 5 Journal](https://docs.google.com/document/d/14Yg_BGEkdsSiM5gtYqWaB8CtQvHbF0U7JsSE_vZx_lA/edit?usp=sharing)
+#### * Kaavya - [Unit 5 Notes](https://docs.google.com/document/d/1RIIQLuQYmd7VfgwVUuagS0k8c6wzEtOcaqYy5M8PtLE/edit#bookmark=id.jrlsdhqzyh2v), [Unit 5 Progress Checks Corrections](https://docs.google.com/document/d/1RIIQLuQYmd7VfgwVUuagS0k8c6wzEtOcaqYy5M8PtLE/edit#bookmark=id.cb6tpkmum65u), [Week 5 Tech Talks](https://docs.google.com/document/d/1h_vjHIhu1bZy4lrPlD3wR9qwJQ-ecefa4nxaJv8pvRg/edit#bookmark=id.26cgomqwmo78)
+
 ## Week 4
 
 ### [Web Page Video](https://www.loom.com/share/14ae6ad91cda44ac947e22716cef76f7)
