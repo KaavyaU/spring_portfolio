@@ -1,6 +1,5 @@
-<!-- This page is illustrative and contains ideas about HTML formatting -->
 <!DOCTYPE HTML>
-<!-- Signals to the Layout Dialect which layout should be used to decorate this View -->
+
 <html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
       layout:decorate="~{layout}" lang="en">
 
@@ -8,17 +7,22 @@
     <title>Intro</title>
 </div></head>
 
-<!-- layout::fragment="content" is heart of ThymeLeaf layout -->
 <body style="background-color:#698c55;"><div layout:fragment="content" th:remove="tag">
-    <!-- Start of body content specific to page -->
     <style>
+        div {
+            background-color: rgba(255, 255, 255, 0.5)
+        }
         h1 {
-            font-family: 'Comic Sans MS';
+            font-family: 'Darker Grotesque';
             font-size: 4vw;
+            margin-left: 50px;
         }
         p {
             font-family: 'Darker Grotesque';
             font-size: 2vw;
+            margin-top: 30px;
+            margin-left: 50px;
+            margin-right: 50px;
         }
         a:link {
             color: green;
@@ -26,7 +30,7 @@
             text-decoration: none;
         }
         a:visited {
-            color: pink;
+            color: palevioletred;
             background-color: transparent;
             text-decoration: none;
         }
@@ -41,14 +45,11 @@
             text-decoration: underline;
         }
     </style>
-    <div id="spring_intro" class="articles" style="margin: 30px;">
-        <h1 style="color:#d3d2cf"><strong> Past Tournaments </strong></h1>
-        <p style="color:#d3d2cf"> California Coastal clean up day : 9/18/2021 <a href="https://www.eventbrite.com/e/37th-annual-coastal-cleanup-day-mission-bay-clean-up-tickets-170505247786?aff=ebdssbdestsearch">Click here to register</a></p>
-        <p style="color:#d3d2cf"> Oceanside Beach clean up : 9/18/2021 <a href="https://www.eventbrite.com/e/37th-annual-coastal-cleanup-day-mission-bay-clean-up-tickets-170505247786?aff=ebdssbdestsearch">Click here to register</a></p>
-        <p style="color:#d3d2cf"> HOKALI Beach Cleanup Day : Multiple Dates <a href="https://www.eventbrite.com/e/hokali-beach-cleanup-day-pacific-beach-san-diego-tickets-150901060133?aff=ebdssbdestsearch">Click here to register</a></p>
-
+    <div class="div" style="margin: 30px">
+        <h1 style="color: darkslategray"> Past Tournaments </h1>
+        <p style="color: darkslategray"> California Coastal clean up day : 9/18/2021 <a href="https://www.eventbrite.com/e/37th-annual-coastal-cleanup-day-mission-bay-clean-up-tickets-170505247786?aff=ebdssbdestsearch">Click here to register</a></p>
+        <p style="color: darkslategray"> Oceanside Beach clean up : 9/18/2021 <a href="https://www.eventbrite.com/e/37th-annual-coastal-cleanup-day-mission-bay-clean-up-tickets-170505247786?aff=ebdssbdestsearch">Click here to register</a></p>
+        <p style="color: darkslategray"> HOKALI Beach Cleanup Day : Multiple Dates <a href="https://www.eventbrite.com/e/hokali-beach-cleanup-day-pacific-beach-san-diego-tickets-150901060133?aff=ebdssbdestsearch">Click here to register</a></p>
     </div>
-    <!-- End of body content specific to page -->
 </div></body>
-
 </html>

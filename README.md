@@ -13,15 +13,24 @@ Kaavya U| @KaavyaU (As ftc13184-KU when committing)  | [Link](https://github.com
 Chris D | @ChristopherDuroiu |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/ChristopherDuroiu)| [Link](https://github.com/KaavyaU/spring_portfolio/projects/1?card_filter_query=assignee%3Achristopherduroiu) |[Link](https://github.com/ChristopherDuroiu) | [Link](https://github.com/KaavyaU/spring_portfolio/commits?author=ChristopherDuroiu)
 Jacqueline C | @Jacqueline |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/JacquelineC23)| [Link](https://github.com/KaavyaU/spring_portfolio/projects/1?card_filter_query=assignee%3Ajacquelinec23) | [Link](https://github.com/JacquelineC23) | [Link](https://github.com/KaavyaU/spring_portfolio/commits?author=JacquelineC23)
 
+## Week 5
+
+### Individual Work
+#### * Chris - [Week 5 Journal](https://docs.google.com/document/d/1VHXwPLX0Xpwg1UTor1pzGkW_ANwSUoALFI-9DjbgFWA/edit?usp=sharing)
+#### * Dhruv - [Week 5 Journal](https://docs.google.com/document/d/1gNhzsLOV-hGObZOZDPEKWoJP0NizCyq4Ab0LXMqcDkA/edit?usp=sharing)
+#### * Jacqueline - [Week 5 Journal](https://docs.google.com/document/d/14Yg_BGEkdsSiM5gtYqWaB8CtQvHbF0U7JsSE_vZx_lA/edit?usp=sharing)
+#### * Kaavya - [Unit 5 Notes](https://docs.google.com/document/d/1RIIQLuQYmd7VfgwVUuagS0k8c6wzEtOcaqYy5M8PtLE/edit#bookmark=id.jrlsdhqzyh2v), [Unit 5 Progress Checks Corrections](https://docs.google.com/document/d/1RIIQLuQYmd7VfgwVUuagS0k8c6wzEtOcaqYy5M8PtLE/edit#bookmark=id.cb6tpkmum65u), [Week 5 Tech Talks](https://docs.google.com/document/d/1h_vjHIhu1bZy4lrPlD3wR9qwJQ-ecefa4nxaJv8pvRg/edit#bookmark=id.26cgomqwmo78)
+
 ## Week 4
 
+### [Web Page Video](https://www.loom.com/share/14ae6ad91cda44ac947e22716cef76f7)
 ### [Self Grading](https://docs.google.com/document/d/18rxRsxZNaHHLoG3P77QIXXPIHKEM_Rcz3gVzLhRcArc/edit#bookmark=kix.vyrab4pf18j9)
 
 ### Code
-#### * Kaavya - [Homepage, Leaderboard, NavBar](url) 
-#### * Jacqueline - [Homepage](url)
-#### * Dhruv - [About Us Page](url)
-#### * Chris - Greet and Birds Integration: [Link](https://github.com/KaavyaU/spring_portfolio/commit/ae076099e347b13726d2be10fb3660bca1705ed3)
+#### * Kaavya - [Homepage, Leaderboard](https://github.com/KaavyaU/spring_portfolio/commit/807c40a2f17b71145b378694d9157d54dc162c32), [Upating NavBar](https://github.com/KaavyaU/spring_portfolio/commit/f9037bcb69fee1acb7bc74791bbe05c7f01c0590)
+#### * Jacqueline - [Past & Upcoming Events](https://github.com/KaavyaU/spring_portfolio/commit/86c86d62076e405cba48c4b3ae94f8bb4e22ab87)
+#### * Dhruv - [About Us Page](https://github.com/KaavyaU/spring_portfolio/commit/ef2dfcf909afbfed34146246b7516a41c62fc25a)
+#### * Chris - [Green and Birds Integration](https://github.com/KaavyaU/spring_portfolio/commit/ae076099e347b13726d2be10fb3660bca1705ed3)
 
 ### Individual Work
 #### * Chris - [Link](https://docs.google.com/document/d/19Bu5awD3ZSQveid-c7RPIxg8bRQcCYpGzC1R2f5G9rM/edit?usp=sharing)
