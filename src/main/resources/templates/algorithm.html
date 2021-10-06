@@ -2,11 +2,6 @@
 <html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
       layout:decorate="~{layout}"  lang="en">
 <head>
-    <div layout:fragment="metadata" th:remove="tag">
-        <meta charset="UTF-8">
-        <title>Our Goal</title>
-
-    </div>
     <style>
         :root{
             --yellow: #f1d483;
@@ -99,15 +94,24 @@
             color: var(--lblue);
         }
 
-        table{
-            border-collapse:collapse;
-            border:1px solid #FF0000;
+        table {
+            border: 1px solid black;
+            width: 50%
+            table-layout: fixed;
         }
 
-        table td{
-            border:1px solid #FF0000;
+        th, td {
+            border: 1px solid black;
+            text-align: left;
+            word-wrap:break-word;
         }
+
     </style>
+    <div layout:fragment="metadata" th:remove="tag">
+        <meta charset="UTF-8">
+        <title>Our Goal</title>
+
+    </div>
 
 </head>
 <body>
@@ -115,7 +119,7 @@
     <div class="col-12" style="text-align: center;">
         <h1><strong>4 ways to code Lucas Numbers in Java</strong></h1>
     </div>
-
+    <p style="margin-left:20px"><img src="/static/images/lucasnumbers.png" th:src="@{/images/lucasnumbers.png}"></p>
     <div class="row justify-content-left" style="margin: 2%;">
         <form action="/algorithm" method="GET" id="termForm">
             <div>
@@ -126,7 +130,7 @@
                 <h3>Algorithm comparison</h3>
                 <table>
                     <tr>
-                        <th>method</th>
+                        <th>Method</th>
                         <th>Time (ms)</th>
                         <th>Number</th>
                         <th>List</th>
@@ -160,6 +164,7 @@
             </div>
         </form>
     </div>
+    <a href="https://github.com/KaavyaU/spring_portfolio/blob/master/src/main/java/com/example/sping_portfolio/controllers/Algorithm.java">Lucas Numbers code</a>
 
 </div>
 </body>
