@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html xmlns:layout="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml"
+      layout:decorate="~{layout}"  lang="en">
+<head>
+    <div layout:fragment="metadata" th:remove="tag">
+        <meta charset="UTF-8">
+        <title>Grayscale</title>
+
+    </div>
+</head>
+
+<body>
+<div layout:fragment="content" th:remove="tag">
+    <div class="container">
+        <h1 class="text-center">RGB values within an Image</h1>
+        <div class="row justify-content-md-center">
+            <table class="table">
+                <thead>
+                <tr>
+                    <th>Meta Data</th>
+                    <th>RGB Image</th>
+                    <th>Grayscale Image</th>
+                    <th>Samples of Data</th>
+                </tr>
+                </thead>
+
+                <tbody>
+                <tr th:each="ii: ${lii}">
+                    <td>
+                        <div th:text="${ii.getTitle()}"></div>
+                        <div th:text="${ii.getAuthor()}"></div>
+                        <div th:text="'(Height=' + ${ii.getHeight()} + ', Width=' + ${ii.getWidth()} + ')'"></div>
+                    </td>
+                    <td>
+                        <img class="img-responsive py-3" th:src="@{${ii.getFile_path()}}" alt="" src="${ii.getFile_path()}" width=256 height="Auto">
+                    </td>
+                    <td>
+                        <img class="img-responsive py-3" th:src="@{${ii.grayscale_base64()}}" alt="" src="${ii.grayscale_base64()}" width=256 height="Auto">
+                    </td>
+                    <td>
+                        <div class="overflow-auto" style="height: 256px">
+                            <table class="table">
+                                <thead>
+                                <tr>
+                                    <th>RGB</th>
+                                    <th>Hex Code</th>
+                                    <th>Binary</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+
+                                    <span th:each="row: ${#numbers.sequence(0, 10)}">
+                                        <tr th:each="col: ${#numbers.sequence(0, 10)}">
+                                            <td th:text="${ii.getRGB(row,col)}">cell</td>
+                                            <td th:text="${ii.getHexCode(row,col)}">cell</td>
+                                            <td th:text="${ii.getBinary(row,col)}">cell</td>
+                                        </tr>
+                                    </span>
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </td>
+                </tr>
+                </tbody>
+
+            </table>
+        </div>
+    </div>
+</div>
+</body>
+</html>

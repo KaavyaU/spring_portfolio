@@ -7,8 +7,8 @@ import java.util.List;
 
 public abstract class GrayscaleImages {
     protected File image;
-    protected List<ImageInfo> imageList;
-    protected List<ImageProp> imageDetails;
+    //protected List<ImageInfo> imageList;
+    //protected List<ImageProp> imageDetails;
     protected String imageDesc;
     protected String base64;
     protected List<Integer> RGB;
