@@ -16,6 +16,7 @@ public class ImageInfo {
     public int height;
     public int width;
     public int[][][] rgb_matrix;
+    public int[][][] gray_matrix;
     BufferedImage rgb_img;
 
     public ImageInfo(String file, String author, String name) {
@@ -37,6 +38,7 @@ public class ImageInfo {
             height = rgb_img.getHeight();
 
             this.rgb_matrix = new int[this.height][this.width][4];
+            this.gray_matrix = new int[this.height][this.width][4];
 
             //initialize rgb_matrix
             for (int y = 0; y < height; y++){
@@ -90,7 +92,7 @@ public class ImageInfo {
 
         for(int y=0;y<height;y++) {
             for (int x = 0; x < width; x++) {
-                img.setRGB(x, y, argb(rgb_matrix[y][x][3],rgb_matrix[y][x][0],rgb_matrix[y][x][1],rgb_matrix[y][x][2]));
+                img.setRGB(x, y, argb(gray_matrix[y][x][3], gray_matrix[y][x][0], gray_matrix[y][x][1], gray_matrix[y][x][2]));
             }
         }
 
@@ -128,9 +130,10 @@ public class ImageInfo {
                 //int avg = (r+g+b)/3;
                 int avg = (int)(0.3*r + 0.59*g + 0.11*b);
 
-                rgb_matrix[y][x][0] = avg;
-                rgb_matrix[y][x][1] = avg;
-                rgb_matrix[y][x][2] = avg;
+                gray_matrix[y][x][0] = avg;
+                gray_matrix[y][x][1] = avg;
+                gray_matrix[y][x][2] = avg;
+                gray_matrix[y][x][3] = a;
 
             }
         }
