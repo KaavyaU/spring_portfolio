@@ -13,6 +13,11 @@ Kaavya U| @KaavyaU (As ftc13184-KU when committing)  | [Link](https://github.com
 Chris D | @ChristopherDuroiu |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/ChristopherDuroiu)| [Link](https://github.com/KaavyaU/spring_portfolio/projects/1?card_filter_query=assignee%3Achristopherduroiu) |[Link](https://github.com/ChristopherDuroiu) | [Link](https://github.com/KaavyaU/spring_portfolio/commits?author=ChristopherDuroiu)
 Jacqueline C | @Jacqueline |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/JacquelineC23)| [Link](https://github.com/KaavyaU/spring_portfolio/projects/1?card_filter_query=assignee%3Ajacquelinec23) | [Link](https://github.com/JacquelineC23) | [Link](https://github.com/KaavyaU/spring_portfolio/commits?author=JacquelineC23)
 
+## Week 7
+
+#### [Runtime Video](url)
+#### [Week 7 Ticket](url) - Has links to individual Work and Code for each person (click on the person's name to see their work for the week)
+
 ## Week 5
 
 ### Individual Work
