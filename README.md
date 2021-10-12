@@ -15,7 +15,7 @@ Jacqueline C | @Jacqueline |[Link](https://github.com/KaavyaU/spring_portfolio/i
 
 ## Week 7
 
-#### [Runtime Video](url)
+#### [Runtime Video](https://www.wevideo.com/view/2404973099)
 #### [Week 7 Ticket](https://github.com/KaavyaU/spring_portfolio/issues/40) - Has links to individual Work and Code for each person (click on the person's name to see their work for the week)
 
 ## Week 5
