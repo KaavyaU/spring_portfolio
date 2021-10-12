@@ -5,6 +5,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ImageInfo {
-    private File image;
+    public File image;
     private List<ImageProp>imageDetails;
 }
