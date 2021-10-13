@@ -6,6 +6,7 @@
 #### Pair Journals:
 ####    * Chris and Dhruv - https://docs.google.com/document/d/1HQGY49BI6pqRuwpEO5sCcX64k9P4LuYbY6zNoRwk86U/edit?usp=sharing
 ####    * Jacquline and Kaavya - https://docs.google.com/document/d/1_77nz3IglXgiMYR-dnMNzKONL8WBVP_OOJvqff_uQ9g/edit
+POP QUIZ
 Team Member                       | GitHub ID  | Tasks  | Scrumboard| GitHub Profile| Commits
 ----------------------------------|-----------|-----------------|-----------------------|------------------------|--------------
 Dhruv B | @Dhrruvb1 |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/dhrruvb)|[Link](https://github.com/KaavyaU/spring_portfolio/projects/1?card_filter_query=assignee%3Adhrruvb)| [Link](https://github.com/Dhrruvb1) | [Link](https://github.com/KaavyaU/spring_portfolio/commits?author=dhrruvb)
