@@ -18,6 +18,10 @@ Jacqueline C | @Jacqueline |[Link](https://github.com/KaavyaU/spring_portfolio/i
 
 #### [Runtime Video](https://www.wevideo.com/view/2404973099)
 #### [Week 7 Ticket](https://github.com/KaavyaU/spring_portfolio/issues/40) - Has links to individual Work and Code for each person (click on the person's name to see their work for the week)
+#### * [Jacqueline's Code](https://github.com/KaavyaU/spring_portfolio/issues/45) - Frontend
+#### * [Dhruv's Code](https://github.com/KaavyaU/spring_portfolio/issues/44) - Control
+#### * [Kaavya's Code](https://github.com/KaavyaU/spring_portfolio/issues/42) - Model
+#### * [Chris's Code](https://github.com/KaavyaU/spring_portfolio/issues/43) - Model
 
 ## Week 5
 
