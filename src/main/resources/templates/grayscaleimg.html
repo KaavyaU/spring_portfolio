@@ -25,7 +25,8 @@
                 </thead>
 
                 <tbody>
-                <tr th:each="ii: ${lii}">
+                <h1>Commented out Body for now</h1>
+                <!--<tr th:each="ii: ${lii}">
                     <td>
                         <div th:text="${ii.getTitle()}"></div>
                         <div th:text="${ii.getAuthor()}"></div>
@@ -36,6 +37,9 @@
                     </td>
                     <td>
                         <img class="img-responsive py-3" th:src="@{${ii.grayscale_base64()}}" alt="" src="${ii.grayscale_base64()}" width=256 height="Auto">
+                    </td>
+                    <td>
+                        <img class="img-responsive py-3" th:src="@{${ii.asciiimg_base64()}}" alt="" src="${ii.asciiimg_base64()}" width=256 height="Auto">
                     </td>
                     <td>
                         <div class="overflow-auto" style="height: 256px">
@@ -61,7 +65,7 @@
                             </table>
                         </div>
                     </td>
-                </tr>
+                </div>
                 </tbody>
 
             </table>
