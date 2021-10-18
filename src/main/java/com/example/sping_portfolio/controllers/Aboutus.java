@@ -5,10 +5,10 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller  // HTTP requests are handled as a controller, using the @Controller annotation
 
 public class Aboutus {
-    @GetMapping("/aboutus")
+    @GetMapping("/Aboutus")
     // CONTROLLER handles GET request for /greeting, maps it to greeting() and does variable bindings
     public String birds() {
-        return "aboutus"; // returns HTML VIEW (greeting)
+        return "Aboutus"; // returns HTML VIEW (greeting)
     }
 }
 
