@@ -20,6 +20,7 @@
                     <th>Meta Data</th>
                     <th>RGB Image</th>
                     <th>Grayscale Image</th>
+                    <th>Ascii Image</th>
                     <th>Samples of Data</th>
                 </tr>
                 </thead>
@@ -36,6 +37,9 @@
                     </td>
                     <td>
                         <img class="img-responsive py-3" th:src="@{${ii.grayscale_base64()}}" alt="" src="${ii.grayscale_base64()}" width=256 height="Auto">
+                    </td>
+                    <td>
+                        <img class="img-responsive py-3" th:src="@{${ii.asciiimg_base64()}}" alt="" src="${ii.asciiimg_base64()}" width=256 height="Auto">
                     </td>
                     <td>
                         <div class="overflow-auto" style="height: 256px">
@@ -61,7 +65,7 @@
                             </table>
                         </div>
                     </td>
-                </tr>
+                </div>
                 </tbody>
 
             </table>
