@@ -1,7 +1,7 @@
 package com.example.sping_portfolio.MiniLabs.Dhruv;
 import java.util.Scanner ;
 
-public class Minilab_two {
+public class Minilab_Thre {
     public static void main(String[] argsv) {
         Scanner keyboard = new Scanner(System.in);
         System.out.println("What is your age?");

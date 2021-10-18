@@ -1,4 +1,9 @@
 ## Blue
+
+### Description
+#### Our PBL Project is a recycling project meant to encourage students to recycle and lead them to oppertunities to help the environemnt. Our purpose is to motivate students in our community and others to support our school and improve the environment. We created a competition-style project where students try to recycle more than their peers, so we created a leaderboard wehere students will be able to input how much they recycle and see where they stand among their peers. We also have a Past/Upcoming events page where we have links to community events that students can attend to help the environemnt. We also have an About-Us page where we talk about the team that made the project (Jacqueline, Chris, Dhruv, and Kaavya) and have a Mini-Lab page were we showcase what we learned in CSA.
+
+## Pop Quiz
 #### Team Name: Blue
 #### Scrum Board - https://github.com/KaavyaU/spring_portfolio/projects/1
 #### Commits - https://github.com/KaavyaU/spring_portfolio/commits/master
@@ -6,6 +11,7 @@
 #### Pair Journals:
 ####    * Chris and Dhruv - https://docs.google.com/document/d/1HQGY49BI6pqRuwpEO5sCcX64k9P4LuYbY6zNoRwk86U/edit?usp=sharing
 ####    * Jacquline and Kaavya - https://docs.google.com/document/d/1_77nz3IglXgiMYR-dnMNzKONL8WBVP_OOJvqff_uQ9g/edit
+POP QUIZ
 Team Member                       | GitHub ID  | Tasks  | Scrumboard| GitHub Profile| Commits
 ----------------------------------|-----------|-----------------|-----------------------|------------------------|--------------
 Dhruv B | @Dhrruvb1 |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/dhrruvb)|[Link](https://github.com/KaavyaU/spring_portfolio/projects/1?card_filter_query=assignee%3Adhrruvb)| [Link](https://github.com/Dhrruvb1) | [Link](https://github.com/KaavyaU/spring_portfolio/commits?author=dhrruvb)
@@ -15,8 +21,12 @@ Jacqueline C | @Jacqueline |[Link](https://github.com/KaavyaU/spring_portfolio/i
 
 ## Week 7
 
-#### [Runtime Video](url)
+#### [Runtime Video](https://www.wevideo.com/view/2404973099)
 #### [Week 7 Ticket](https://github.com/KaavyaU/spring_portfolio/issues/40) - Has links to individual Work and Code for each person (click on the person's name to see their work for the week)
+#### * [Jacqueline's Code](https://github.com/KaavyaU/spring_portfolio/issues/45) - Frontend
+#### * [Dhruv's Code](https://github.com/KaavyaU/spring_portfolio/issues/44) - Control
+#### * [Kaavya's Code](https://github.com/KaavyaU/spring_portfolio/issues/42) - Model
+#### * [Chris's Code](https://github.com/KaavyaU/spring_portfolio/issues/43) - Model
 
 ## Week 5
 
