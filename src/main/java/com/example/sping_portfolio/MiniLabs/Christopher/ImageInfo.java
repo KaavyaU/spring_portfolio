@@ -50,8 +50,8 @@ public class ImageInfo {
             rgb_img = ImageIO.read(new URL(this.file_path));
 
             //get image width and height
-            width = rgb_img.getWidth();
-            height = rgb_img.getHeight();
+            this.width = rgb_img.getWidth();
+            this.height = rgb_img.getHeight();
 
             this.rgb_matrix = new int[this.height][this.width][4];
             this.gray_matrix = new int[this.height][this.width][4];
@@ -104,7 +104,7 @@ public class ImageInfo {
     }
 
     public String img_to_base64() throws IOException {
-        BufferedImage img = new BufferedImage(width, height, BufferedImage.TYPE_INT_ARGB);
+        BufferedImage img = new BufferedImage(this.width, this.height, BufferedImage.TYPE_INT_ARGB);
 
         for(int y=0;y<height;y++) {
             for (int x = 0; x < width; x++) {
@@ -227,7 +227,7 @@ public class ImageInfo {
         int groupwidth = width / ascii_width;
 
         //Font fnt = new Font("JetBrains Mono", Font.PLAIN, ascii_height);
-        Font fnt = new Font("monospaced", Font.PLAIN, ascii_height);
+        Font fnt = new Font("monospaced", Font.BOLD, ascii_height);
 
         ascii_img = new BufferedImage((int)(this.width*1.3), (int)(this.height*1.3), BufferedImage.TYPE_INT_RGB);
         Graphics g = ascii_img.getGraphics();

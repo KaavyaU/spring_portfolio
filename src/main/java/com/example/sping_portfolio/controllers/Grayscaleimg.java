@@ -4,8 +4,6 @@ package com.example.sping_portfolio.controllers;
  */
 
 import com.example.sping_portfolio.MiniLabs.Christopher.ImageInfo;
-import com.example.sping_portfolio.controllers.Grayscale.AddWatermark;
-import com.example.sping_portfolio.controllers.Grayscale.GrayscaleImages;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -25,8 +23,6 @@ public class Grayscaleimg {
     @GetMapping("/grayscaleimg")    // CONTROLLER handles GET request for /greeting, maps it to greeting() and does variable bindings
     public String greeting(Model model) {
         List<ImageInfo> lii = new ArrayList<>();
-        GrayscaleImages watermarkImage= new GrayscaleImages();
-        watermarkImage.imageList = new ArrayList<com.example.sping_portfolio.controllers.Grayscale.ImageInfo>();
 
         String web_server = "http://localhost:8080";
 
@@ -63,7 +59,10 @@ public class Grayscaleimg {
         String file9 = web_server + "/images/rgb_10.jpg";
         lii.add(new ImageInfo(file9, new String("Claude Monet"), new String("Sunrise, 1874")));
 
-
+        for (int i = 0; i < lii.size(); i++) {
+            lii.get(i).read_image();
+        }
+/*
         for (int i = 0; i < lii.size(); i++) {
             //lii.get(i).read_image();
             String filePath = lii.get(i).file_path;
@@ -72,17 +71,13 @@ public class Grayscaleimg {
             image = new File(filePath);
             String colorPath = "https://localhost:8080/resources/static/images/colorWatermark" + String.valueOf(i) +".png";
             File colorWatermark = new File(colorPath);
-            try {
-                AddWatermark.addTextWatermark(new URL(filePath), new URL(colorPath));
-            }catch (MalformedURLException e) {
-                e.printStackTrace();
-            }
+
             //AddWatermark.addTextWatermark(image, colorWatermark);
             //watermarkImage.imageList.add(new com.example.spring_portfolio.controllers.Grayscale.ImageInfo());
             //watermarkImage.imageList.get(i).image = image;
         }
         //watermarkImage.addWatermark(watermarkImage.imageList);
-
+*/
         model.addAttribute("lii", lii);
         return "grayscaleimg"; // returns HTML VIEW (greeting)
     }
