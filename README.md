@@ -29,7 +29,7 @@ Video Link              | Comments from Teammates           | Score (Avg. of Com
 [Kaavya Video](https://www.wevideo.com/view/2420770703)| [Kaavya Ticket](https://github.com/KaavyaU/spring_portfolio/issues/58)| (Put score here)
 [Jacqueline Video](url)|[Jacqueline Ticket](https://github.com/KaavyaU/spring_portfolio/issues/59)| (put score here)
 [Chris Video](https://www.loom.com/share/8f7b3fbf4396409894ddfd26c3d1ff84)| [Chris Ticket](https://github.com/KaavyaU/spring_portfolio/issues/61)| (put score here)
-[Dhruv Video](url)| [Dhruv Ticket](https://github.com/KaavyaU/spring_portfolio/issues/60)| (put score here)
+[Dhruv Video](https://youtu.be/7i_WxQuxx_E)| [Dhruv Ticket](https://github.com/KaavyaU/spring_portfolio/issues/60)| (put score here)
 
 ## Week 8
 [Week 8 Review ticket with presentation, individual work, and grading](https://github.com/KaavyaU/spring_portfolio/issues/55)
