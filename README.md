@@ -21,6 +21,16 @@ Kaavya U| @KaavyaU (As ftc13184-KU when committing)  | [Link](https://github.com
 Chris D | @ChristopherDuroiu |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/ChristopherDuroiu)| [Link](https://github.com/KaavyaU/spring_portfolio/projects/1?card_filter_query=assignee%3Achristopherduroiu) |[Link](https://github.com/ChristopherDuroiu) | [Link](https://github.com/KaavyaU/spring_portfolio/commits?author=ChristopherDuroiu)
 Jacqueline C | @Jacqueline |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/JacquelineC23)| [Link](https://github.com/KaavyaU/spring_portfolio/projects/1?card_filter_query=assignee%3Ajacquelinec23) | [Link](https://github.com/JacquelineC23) | [Link](https://github.com/KaavyaU/spring_portfolio/commits?author=JacquelineC23)
 
+## Week 9
+
+### Individual Final (Part 1) - Videos
+Video Link              | Comments from Teammates           | Score (Avg. of Comments
+------------------------|-----------------------------------|-------------------------
+[Kaavya Video](https://www.wevideo.com/view/2420770703)| [Kaavya Ticket](https://github.com/KaavyaU/spring_portfolio/issues/58)| (Put score here)
+[Jacqueline Video](url)|[Jacqueline Ticket](https://github.com/KaavyaU/spring_portfolio/issues/59)| (put score here)
+[Chris Video](https://www.loom.com/share/8f7b3fbf4396409894ddfd26c3d1ff84)| [Chris Ticket](https://github.com/KaavyaU/spring_portfolio/issues/61)| (put score here)
+[Dhruv Video](url)| [Dhruv Ticket](https://github.com/KaavyaU/spring_portfolio/issues/60)| (put score here)
+
 ## Week 8
 [Week 8 Review ticket with presentation, individual work, and grading](https://github.com/KaavyaU/spring_portfolio/issues/55)
 #### * 32 Total Student Comments
