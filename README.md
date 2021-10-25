@@ -2,6 +2,9 @@
 ### Description
 #### Our PBL Project is a recycling project meant to encourage students to recycle and lead them to oppertunities to help the environemnt. Our purpose is to motivate students in our community and others to support our school and improve the environment. We created a competition-style project where students try to recycle more than their peers, so we created a leaderboard wehere students will be able to input how much they recycle and see where they stand among their peers. We also have a Past/Upcoming events page where we have links to community events that students can attend to help the environemnt. We also have an About-Us page where we talk about the team that made the project (Jacqueline, Chris, Dhruv, and Kaavya) and have a Mini-Lab page were we showcase what we learned in CSA.
 
+## Individual Final Part 1 Videos
+#### * Chris - [Video Ticket](https://github.com/KaavyaU/spring_portfolio/issues/61)
+
 ## Pop Quiz
 #### Team Name: Blue
 #### Scrum Board - https://github.com/KaavyaU/spring_portfolio/projects/1
