@@ -4,6 +4,7 @@
 
 ## Individual Final Part 1 Videos
 #### * Chris - [Video Ticket](https://github.com/KaavyaU/spring_portfolio/issues/61)
+#### * Dhruv - [Video Ticket](https://github.com/KaavyaU/spring_portfolio/issues/60)
 
 ## Pop Quiz
 #### Team Name: Blue
