@@ -27,7 +27,7 @@ Jacqueline C | @Jacqueline |[Link](https://github.com/KaavyaU/spring_portfolio/i
 ### Individual Final (Part 1) - Videos
 Video Link              | Comments from Teammates           | Score (Avg. of Comments)
 ------------------------|-----------------------------------|-------------------------
-[Kaavya Video](https://www.wevideo.com/view/2420770703)| [Kaavya Ticket](https://github.com/KaavyaU/spring_portfolio/issues/58)| 5.375
+[Kaavya Video](https://www.wevideo.com/view/2420770703)| [Kaavya Ticket](https://github.com/KaavyaU/spring_portfolio/issues/58)| 5.42
 [Jacqueline Video](url)|[Jacqueline Ticket](https://github.com/KaavyaU/spring_portfolio/issues/59)| 0? (No video given)
 [Chris Video](https://www.loom.com/share/8f7b3fbf4396409894ddfd26c3d1ff84)| [Chris Ticket](https://github.com/KaavyaU/spring_portfolio/issues/61)| 5.5
 [Dhruv Video](https://youtu.be/7i_WxQuxx_E)| [Dhruv Ticket](https://github.com/KaavyaU/spring_portfolio/issues/60)| 5.5
