@@ -2,6 +2,10 @@
 ### Description
 #### Our PBL Project is a recycling project meant to encourage students to recycle and lead them to oppertunities to help the environemnt. Our purpose is to motivate students in our community and others to support our school and improve the environment. We created a competition-style project where students try to recycle more than their peers, so we created a leaderboard wehere students will be able to input how much they recycle and see where they stand among their peers. We also have a Past/Upcoming events page where we have links to community events that students can attend to help the environemnt. We also have an About-Us page where we talk about the team that made the project (Jacqueline, Chris, Dhruv, and Kaavya) and have a Mini-Lab page were we showcase what we learned in CSA.
 
+## Individual Final Part 1 Videos
+#### * Chris - [Video Ticket](https://github.com/KaavyaU/spring_portfolio/issues/61)
+#### * Dhruv - [Video Ticket](https://github.com/KaavyaU/spring_portfolio/issues/60)
+
 ## Pop Quiz
 #### Team Name: Blue
 #### Scrum Board - https://github.com/KaavyaU/spring_portfolio/projects/1
@@ -17,6 +21,16 @@ Dhruv B | @Dhrruvb1 |[Link](https://github.com/KaavyaU/spring_portfolio/issues/a
 Kaavya U| @KaavyaU (As ftc13184-KU when committing)  | [Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/KaavyaU)|[Link](https://github.com/KaavyaU/spring_portfolio/projects/1?card_filter_query=assignee%3Akaavyau)| [Link](https://github.com/KaavyaU) |[Link to all commits](https://github.com/KaavyaU/spring_portfolio/commits/master) - Problem with commiting name is causing inability to filter for Kaavya
 Chris D | @ChristopherDuroiu |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/ChristopherDuroiu)| [Link](https://github.com/KaavyaU/spring_portfolio/projects/1?card_filter_query=assignee%3Achristopherduroiu) |[Link](https://github.com/ChristopherDuroiu) | [Link](https://github.com/KaavyaU/spring_portfolio/commits?author=ChristopherDuroiu)
 Jacqueline C | @Jacqueline |[Link](https://github.com/KaavyaU/spring_portfolio/issues/assigned/JacquelineC23)| [Link](https://github.com/KaavyaU/spring_portfolio/projects/1?card_filter_query=assignee%3Ajacquelinec23) | [Link](https://github.com/JacquelineC23) | [Link](https://github.com/KaavyaU/spring_portfolio/commits?author=JacquelineC23)
+
+## Week 9
+
+### Individual Final (Part 1) - Videos
+Video Link              | Comments from Teammates           | Score (Avg. of Comments)
+------------------------|-----------------------------------|-------------------------
+[Kaavya Video](https://www.wevideo.com/view/2420770703)| [Kaavya Ticket](https://github.com/KaavyaU/spring_portfolio/issues/58)| 5.42
+[Jacqueline Video](url)|[Jacqueline Ticket](https://github.com/KaavyaU/spring_portfolio/issues/59)| 0? (No video given)
+[Chris Video](https://www.loom.com/share/8f7b3fbf4396409894ddfd26c3d1ff84)| [Chris Ticket](https://github.com/KaavyaU/spring_portfolio/issues/61)| 5.5
+[Dhruv Video](https://youtu.be/7i_WxQuxx_E)| [Dhruv Ticket](https://github.com/KaavyaU/spring_portfolio/issues/60)| 5.5
 
 ## Week 8
 [Week 8 Review ticket with presentation, individual work, and grading](https://github.com/KaavyaU/spring_portfolio/issues/55)
