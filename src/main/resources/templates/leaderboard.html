@@ -48,26 +48,16 @@
             </style>
             <thead>
             <tr>
-                <th>Place</th>
-                <th>Name</th>
+                <th>Rank</th>
+                <th>Username</th>
                 <th>Amount Recycled</th>
             </tr>
             </thead>
             <tbody>
-            <tr>
-                <td>1</td>
-                <td>Person A</td>
-                <td>100 bottles</td>
-            </tr>
-            <tr>
-                <td>2</td>
-                <td>Person B</td>
-                <td>50 bottles</td>
-            </tr>
-            <tr>
-                <td th:text="${rankout}"></td>
-                <td th:text="${nameout}"></td>
-                <td th:text="${countout}"></td>
+            <tr th:each="participant : ${participantsout}">
+                <td th:text="${participant.getRank()}"></td>
+                <td th:text="${participant.getUsername()}"></td>
+                <td th:text="${participant.getAmtRecycled()}"></td>
             </tr>
         </table>
         <script>
@@ -79,10 +69,10 @@
     <div>
         <form action="/leaderboard" method="GET" id="leaderForm">
             <div>
-                <label for="nameField">Your name: </label>
+                <label for="nameField">Your username: </label>
                 <input name="name" id="nameField">
                 <div></div>
-                <label for="countField">How many bottles? </label>
+                <label for="countField">How many items? </label>
                 <input name="count" id="countField">
                 <button>Add to board</button>
             </div>
