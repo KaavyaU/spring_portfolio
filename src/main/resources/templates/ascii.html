@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ascii Art</title>
+</head>
+<body>
+<div class="table-responsive">
+    <table id="asciiTable" class="display-table" width="90%">
+        <style>
+            .display-table {
+                font-family: 'Courier New';
+                font-size: 0.2vw;
+                color: black;
+                background-color: white;
+            }
+        </style>
+        <thead>
+        <tr>
+            <th></th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td th:text="${asciiout}"></td>
+        </tr>
+    </table>
+    <script>
+        $(document).ready(function(){
+            $('#asciiTable').dataTable();
+        });
+    </script>
+</div>
+</body>
+</html>
