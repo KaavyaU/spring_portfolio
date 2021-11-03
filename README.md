@@ -1,22 +1,25 @@
 ## Blue
 ### Description
 #### Our PBL Project is a recycling project meant to encourage students to recycle and lead them to oppertunities to help the environemnt. Our purpose is to motivate students in our community and others to support our school and improve the environment. We created a competition-style project where students try to recycle more than their peers, so we created a leaderboard wehere students will be able to input how much they recycle and see where they stand among their peers. We also have a Past/Upcoming events page where we have links to community events that students can attend to help the environemnt. We also have an About-Us page where we talk about the team that made the project (Jacqueline, Chris, Dhruv, and Kaavya) and have a Mini-Lab page were we showcase what we learned in CSA.
+- [Project History](https://github.com/KaavyaU/spring_portfolio/commits/master)
+- [Contributors](https://github.com/KaavyaU/spring_portfolio/graphs/contributors?from=2021-08-08&to=2021-11-03&type=c)
 
 ### Our Team
 #### Our groups consists of 4 members who all contributed to making this project happen. We each of roles within the team to make sure every task gets completed to the best of our abilities
 #### Kaavya 
-#### * Scrum Master - Mangages the tasks of the group and makes sure our group has a plan for each week. Also, is the main line of communication between our group and Mr.M, our teacher
-#### * Technical Lead - 
-
+- Scrum Master - Mangages the tasks of the group and makes sure our group has a plan for each week. Also, is the main line of communication between our group and Mr.M, our teacher
+- Technical Lead - Add description
 #### Jacqueline
-#### * Navigator - 
-
+- Navigator - Add description
 #### Dhruv
-#### * Designer - 
-
+- Designer - Add description
 #### Chris
-#### * Developer - 
+- Developer -Add description
 
+### How to use, run, and contribute to our project
+- To use our code: Check our our [commits page](https://github.com/KaavyaU/spring_portfolio/commits/master)
+- To run project: Run it in your IDE by copying the spring_portfolio respository or access our running project [here (Need to add link)](url)
+- To contribute: Feel free to leave us some feedback [here (Need to add link)](url)
 
 ## Individual Final Part 1 Videos
 #### * Chris - [Video Ticket](https://github.com/KaavyaU/spring_portfolio/issues/61)
