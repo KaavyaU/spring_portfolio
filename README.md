@@ -20,7 +20,6 @@
 - To use our code: Check our our [commits page](https://github.com/KaavyaU/spring_portfolio/commits/master)
 - To run project: Run it in your IDE by copying the spring_portfolio respository or access our running project [here (Need to add link)](url)
 - To contribute: Feel free to leave us some feedback [here (Need to add link)](url)
--
 #### To take part in the competition, get started on recycling and add amount recycled to the leaderboard. Also, check out the Events page for more environment-related activities to participate in outside of the competition. Learn more about our team through our About-Us page
 
 ## Individual Final Part 1 Videos
