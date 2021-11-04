@@ -34,4 +34,11 @@ public class Participant {
         return amtRecycled;
     }
 
+    public int updateAmt(int amt){
+        return (amtRecycled += amt);
+    }
+
+    public int updateRank(int place){
+        return (rank = place);
+    }
 }
