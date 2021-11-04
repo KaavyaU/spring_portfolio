@@ -8,18 +8,20 @@
 #### Our groups consists of 4 members who all contributed to making this project happen. We each of roles within the team to make sure every task gets completed to the best of our abilities
 #### Kaavya 
 - Scrum Master - Mangages the tasks of the group and makes sure our group has a plan for each week. Also, is the main line of communication between our group and Mr.M, our teacher
-- Technical Lead - Add description
+- Technical Lead
 #### Jacqueline
-- Navigator - Add description
+- Navigator
 #### Dhruv
-- Designer - Add description
+- Designer
 #### Chris
-- Developer -Add description
+- Developer
 
 ### How to use, run, and contribute to our project
 - To use our code: Check our our [commits page](https://github.com/KaavyaU/spring_portfolio/commits/master)
 - To run project: Run it in your IDE by copying the spring_portfolio respository or access our running project [here (Need to add link)](url)
 - To contribute: Feel free to leave us some feedback [here (Need to add link)](url)
+-
+#### To take part in the competition, get started on recycling and add amount recycled to the leaderboard. Also, check out the Events page for more environment-related activities to participate in outside of the competition. Learn more about our team through our About-Us page
 
 ## Individual Final Part 1 Videos
 #### * Chris - [Video Ticket](https://github.com/KaavyaU/spring_portfolio/issues/61)
