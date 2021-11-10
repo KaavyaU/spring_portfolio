@@ -22,6 +22,9 @@
 - To contribute: Feel free to leave us some feedback [here (Need to add link)](url)
 #### To take part in the competition, get started on recycling and add amount recycled to the leaderboard. Also, check out the Events page for more environment-related activities to participate in outside of the competition. Learn more about our team through our About-Us page
 
+## N@tM Presentation/Walkarounds
+#### We combined all of our team member's thoughts on N@tM and Trimester 2 into this [presentation](https://docs.google.com/presentation/d/1U9_YznAJhH8shA9BXPzXg1whY9hi7i-KZzg0bBGfOBk/edit?usp=sharing)
+
 ## Individual Final Part 1 Videos
 #### * Chris - [Video Ticket](https://github.com/KaavyaU/spring_portfolio/issues/61)
 #### * Dhruv - [Video Ticket](https://github.com/KaavyaU/spring_portfolio/issues/60)
